@@ -3934,13 +3934,10 @@ img.u-pull-left {
     .folio-list__item-pic img {
         max-width : 100%;
         width     : 100%;
+        margin: 10px 10px;
         height    : auto;
     }
 
-    .folio-list__item-text,
-    .folio-list__proj-link {
-        display : none;
-    }
 
     .modal-popup__desc {
         padding : 0 var(--vspace-1) var(--vspace-0_25);
